@@ -1,4 +1,4 @@
-# ukrainian
+# Ukrainian
 Добротна українська розкладка для Mac OS
 
 ## Навіщо?
@@ -11,6 +11,6 @@
 
 
 ## Встановлення
-```cd ~/Downloads && git clone https://github.com/komba/ukrainian.git```
+```cd ~/Downloads && git clone https://github.com/komba/Ukrainian.git```
 
-```cp ~/Downloads/ukrainian/* ~/Library/Keyboard\ Layouts/```
+```cp ~/Downloads/Ukrainian/* ~/Library/Keyboard\ Layouts/```
